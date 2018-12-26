@@ -4,4 +4,4 @@
 - run <code>sass --watch style.scss:style.css</code>
 
 #
-![ScreenShot](https://imgur.com/gallery/0d0dYyn)
+![ScreenShot](https://i.imgur.com/br6ZHJj.png)
