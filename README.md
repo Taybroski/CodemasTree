@@ -1,4 +1,4 @@
 # CodemasTree
 
 - Write styles in .scss file
-- run <code>sass --watch styles.scss:style.css</code>
+- run <code>sass --watch style.scss:style.css</code>
